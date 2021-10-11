@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">latihan</string>
+    <string name="form_pendaftaran">Form Pendaftaran</string>
+    <string name="nama">Nama:</string>
+    <string name="alamat">alamat</string>
+    <string name="no_hp">No. HP</string>
+    <string name="lokasi_pendaftaran">LOKASI PENDAFTARAN</string>
+    <string name="cek_lokasi_sekarang">Cek lokasi sekarang</string>
+    <string name="upload">upload</string>
+    <string name="submit">Submit</string>
+    <string name="jenis_kelamin">Jenis kelamin :</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+</resources>
